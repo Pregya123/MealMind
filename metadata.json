@@ -1,0 +1,7 @@
+{
+  "name": "Meal Mind Application copy",
+  "description": "The ultimate AI-powered kitchen intelligence. Manage inventory, reduce waste, and generate recipes for the whole family—including babies and pets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
